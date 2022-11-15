@@ -2,7 +2,7 @@
 
 ## **Benjamin Rudes reading notes journal**
 
-Hello! My name is Benjamin Rude and I am excited for my opportunity at Code Fellows to make a positive impact on my career and overall happiness. Below you will find my ongoing notes for my classes.
+Hello! My name is Benjamin Rude and I am excited for my opportunity at Code Fellows to make a positive impact on my career and overall happiness. Below you will find my ongoing notes for my classes. Just to add some more substance now that I have taken the growth mindset into its own section. So far this experience has been wonderful! When I started I did not think I would be updating this opening through visual but here I am.
 
 Here is where you can find [**my profile**](https://specsquee.github.io/reading-notes/) if you would like to know more about me and my work.
 
