@@ -1,1 +1,12 @@
 # Markdown in rememberance of what has been learned.
+
+### [Click here to return to main page](README.md)
+
+
+## Thougts for my friends who may in the future consider Code Fellows!
+
+As I have now found out. Markdown while extremely basic is a amazing tool for quick content creation that can have added flair and formatting without much extra work. Your creativity is not hampered by expansive and confusing code, and you can format as you write. An example would be I would like to **BOLD** a word. In regular writing programs you would need to stop highlight and click a button. Stopping the flow of your writing. With Markdown all it takes is simply adding ** to before and after the word or section you would like bolded. It turns ** this ** to **this**. It is that simple. If you want to make something italic just remove a * . That will turn * this * into *this*. Formating in real time is a great practice if you want to put substance over style.
+
+In my own experience though Markdown was something completely new for me to learn. While I had known of HTML in the past and what it entailed. I have to say I like the style of Markdown and the type of product you can put out. I am a very big fan of simplicity if it something that can be done correctly and without much resistance. Markdown to me has that potential, and I am only just touching the surface. Its something I am very much happy to know about to now learn more about and develop deeper skills using 
+
+
