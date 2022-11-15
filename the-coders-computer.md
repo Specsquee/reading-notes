@@ -1,6 +1,6 @@
 # The Coders Computer
 
-### [*Click here to return to main page*](README.md)
+### [*Click here to return to main page*](reading-notes/README.md)
 
 ## My new experiences with Linux!
 
