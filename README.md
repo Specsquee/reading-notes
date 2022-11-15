@@ -18,52 +18,52 @@ To me growth mindset is not something easily attained. It is something that life
 
 #### Here is where you can find [**my profile**](https://specsquee.github.io/reading-notes/) if you would like to know more about me and my work.
 
-#### **Table of contents 102**
+### **Table of contents 102**
 
-    1.) [Markdown](markdown-reflection.md)
+- [Markdown](markdown-reflection.md)
 
-    2.) [The Coders Computer](the-coders-computer.md)
+- [The Coders Computer](the-coders-computer.md)
 
-    3.)
+- [102-3](102notes/102-3.md)
 
-    4.)
+- [102-4](102notes/102-4.md)
 
-    5.)
+- [102-5](102notes/102-5.md)
 
-    6.)
+- [102-6](102notes/102-6.md)
 
-    7.)
+- [102-7](102notes/102-7.md)
 
-    8.)
+- [102-8](102notes/102-8.md)
 
 ### **Table of contents 201**
 
-    1.)
+- [201-1](201notes/201-1.md)
 
-    2.)
+- [201-2](201notes/201-2.md)
 
-    3.)
+- [201-3](201notes/201-3.md)
 
-    4.)
+- [201-4](201notes/201-4.md)
 
-    5.)
+- [201-5](201notes/201-5.md)
 
-    6.)
+- [201-6](201notes/201-6.md)
 
-    7.)
+- [201-7](201notes/201-7.md)
 
-    8.)
+- [201-8](201notes/201-8.md)
 
-    9.)
+- [201-9](201notes/201-9.md)
 
-    10.)
+- [201-10](201notes/201-10.md)
 
-    11.)
+- [201-11](201notes/201-11.md)
 
-    12.)
+- [201-12](201notes/201-12.md)
 
-    13.)
+- [201-13](201notes/201-13.md)
 
-    14.)
+- [201-14](201notes/201-14.md)
 
-    15.)
+- [201-15](201notes/201-15.md)
