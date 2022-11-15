@@ -22,3 +22,5 @@ To me growth mindset is not something easily attained. It is something that life
 #### **Table of contents**
 
 **1.)** [Markdown](markdown-reflection.md)
+
+**2.)** [The Coders Computer](the-coders-computer.md)
