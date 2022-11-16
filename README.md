@@ -4,17 +4,19 @@
 
 Hello! My name is Benjamin Rude and I am excited for my opportunity at Code Fellows to make a positive impact on my career and overall happiness. Below you will find my ongoing notes for my classes. Just to add some more substance now that I have taken the growth mindset into its own section. So far this experience has been wonderful! When I started I did not think I would be updating this opening through visual but here I am.
 
-Here is where you can find [**my profile**](https://specsquee.github.io/reading-notes/) if you would like to know more about me and my work.
+Here is where you can find [**my profile**](https://github.com/Specsquee) if you would like to know more about me and my work.
 
 ### **Table of contents 102**
 
-- [Growth Mindset 102-1](102notes/102-1.md)
+- [Growth Mindset](102notes/GrowthMindset.md)
 
-- [Markdown 102-2](102notes/102-2.md)
+- [Markdown 102-1](102notes/102-1.md)
 
-- [The Coders Computer 102-3](102notes/102-3.md)
+- [The Coders Computer 102-2](102notes/102-2.md)
 
-- [The Cloud 102-4](102notes/102-4.md)
+- [The Cloud 102-3](102notes/102-3.md)
+
+- [102-4](102notes/102-4.md)
 
 - [102-5](102notes/102-5.md)
 
@@ -22,7 +24,7 @@ Here is where you can find [**my profile**](https://specsquee.github.io/reading-
 
 - [102-7](102notes/102-7.md)
 
-- [102-8](102notes/102-8.md)
+- [102-8](102notes/102-8/md)
 
 ### **Table of contents 201**
 
