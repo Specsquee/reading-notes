@@ -16,11 +16,11 @@ Here is where you can find [**my profile**](https://github.com/Specsquee) if you
 
 - [The Cloud 102-3](102notes/102-3.md)
 
-- [102-4](102notes/102-4.md)
+- [HTML 102-4](102notes/102-4.md)
 
-- [102-5](102notes/102-5.md)
+- [CSS 102-5](102notes/102-5.md)
 
-- [102-6](102notes/102-6.md)
+- [JavaScript 102-6](102notes/102-6.md)
 
 - [102-7](102notes/102-7.md)
 
