@@ -22,7 +22,7 @@ Here is where you can find [**my profile**](https://github.com/Specsquee) if you
 
 - [JavaScript 102-6](102notes/102-6.md)
 
-- [102-7](102notes/102-7.md)
+- [JavaScript Programming 102-7](102notes/102-7.md)
 
 - [102-8](102notes/102-8/md)
 
