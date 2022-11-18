@@ -57,3 +57,6 @@ Here is where you can find [**my profile**](https://github.com/Specsquee) if you
 - [201-14](201notes/201-14.md)
 
 - [201-15](201notes/201-15.md)
+
+
+[def]: 102notes/102-8.md
