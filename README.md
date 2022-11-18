@@ -24,7 +24,7 @@ Here is where you can find [**my profile**](https://github.com/Specsquee) if you
 
 - [JavaScript Programming 102-7](102notes/102-7.md)
 
-- [Loops and Loops and Loops 102-8](102notes/102-8/.md)
+- [Loops and Loops and Loops 102-8](102notes/102-8.md)
 
 ### **Table of contents 201**
 
