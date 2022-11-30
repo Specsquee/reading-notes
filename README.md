@@ -32,7 +32,7 @@ Here is where you can find [**my profile**](https://github.com/Specsquee) if you
 
 - [The Basics! 201-2](201notes/201-2.md)
 
-- [201-3](201notes/201-3.md)
+- [Continuation of the basics 201-3](201notes/201-3.md)
 
 - [201-4](201notes/201-4.md)
 
