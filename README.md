@@ -34,21 +34,21 @@ Here is where you can find [**my profile**](https://github.com/Specsquee) if you
 
 - [Continuation of the basics 201-3](201notes/201-3.md)
 
-- [201-4](201notes/201-4.md)
+- [HTML links, Javascript functions, and CSS layouts! 201-04](201notes/201-4.md)
 
-- [201-5](201notes/201-5.md)
+- [HTML Media and CSS styling! 201-05](201notes/201-5.md)
 
-- [201-6](201notes/201-6.md)
+- [Javascrict and the DOM! - 201-6](201notes/201-6.md)
 
-- [201-7](201notes/201-7.md)
+- [Object-Oriented programming, and HTML Tables! - 201-7](201notes/201-7.md)
 
-- [201-8](201notes/201-8.md)
+- [CSS Flexbox. LETS GOOOO! - 201-8](201notes/201-8.md)
 
-- [201-9](201notes/201-9.md)
+- [HTML forms and Javascript events! - 201-9](201notes/201-9.md)
 
-- [201-10](201notes/201-10.md)
+- [Debugging! - 201-10](201notes/201-10.md)
 
-- [201-11](201notes/201-11.md)
+- [Audio, video and images! - 201-11](201notes/201-11.md)
 
 - [201-12](201notes/201-12.md)
 
