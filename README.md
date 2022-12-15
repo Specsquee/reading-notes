@@ -50,13 +50,8 @@ Here is where you can find [**my profile**](https://github.com/Specsquee) if you
 
 - [Audio, video and images! - 201-11](201notes/201-11.md)
 
-- [201-12](201notes/201-12.md)
+- [Canvas and Chart! - 201-12](201notes/201-12.md)
 
-- [201-13](201notes/201-13.md)
+- [Local Storage! - 201-13](201notes/201-13.md)
 
-- [201-14](201notes/201-14.md)
-
-- [201-15](201notes/201-15.md)
-
-
-[def]: 102notes/102-8.md
+- [CSS again! - 201-14](201notes/201-14.md)
